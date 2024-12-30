@@ -21,7 +21,27 @@
     </a>
 </p>
 
----
+## Conecte-se comigo!
+
+<a href="https://www.instagram.com/daviziin_mt/">   
+     <img 
+         align="left" 
+         alt="HTML"
+         title="Instagram" 
+         width="40px"
+         src="https://github.com/user-attachments/assets/a2b7e763-1fc3-4d43-a5c7-b23fa2e78372" 
+     />
+<a href="https://www.instagram.com/daviziin_mt/">   
+     <img 
+         align="left" 
+         alt="HTML"
+         title="LinkedIn" 
+         width="40px"
+          src=""
+     />
+<br/>
+<br/>
+
 
 ### 🤖 Linguagens e Tecnologias
 
