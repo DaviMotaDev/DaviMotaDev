@@ -5,7 +5,7 @@
 - 🌱 Cursando: Análise e Desenvolvimento de Sistemas - CEUB 
 
 <p align="left">
-    <a href="https://github.com/DaviMotaDev">
+     <a href="https://github.com/DaviMotaDev?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -43,19 +43,11 @@
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor"
 />
 <img 
     align="left" 
