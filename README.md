@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Atualmente estou trabalhando como Suporte N2
+- 🔭 Atualmente estou trabalhando como Suporte N2 no Ministério da Saúde
 - 🏣 CTC - Connectcom
 - 🌱 Cursando: Análise e Desenvolvimento de Sistemas - CEUB 
 
