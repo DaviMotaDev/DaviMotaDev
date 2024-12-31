@@ -34,7 +34,7 @@
 <a href="https://www.instagram.com/daviziin_mt/">   
      <img 
          align="left" 
-         alt="HTML"
+         alt="LinkedIn"
          title="LinkedIn" 
          width="40px"
           src=""
