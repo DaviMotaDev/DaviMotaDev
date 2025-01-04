@@ -72,14 +72,6 @@
 />
 <img 
     align="left" 
-    alt="java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor"
-/>
-<img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
