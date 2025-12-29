@@ -86,13 +86,6 @@
      style="padding-right: 10px"
      src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg"
 />
-<img 
-     aling="left"
-     alt="Next"
-     width="30px"
-     style="padding-right: 10px"
-     src=""
-     />
 <br/>
 <br/>
 
