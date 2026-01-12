@@ -91,11 +91,11 @@
 - **TopFast**  
   🔗 https:// <br/>
   🛠️ Tecnologias: Next.js, HTML, CSS <br/>
-  ⚙️ **Em desenvolvimento**.
+  ⚙️ Em desenvolvimento.
 - **Dilsin Barber**  
   🔗 https:// <br/>
   🛠️ Tecnologias: Next.js, HTML, CSS, JavaScript, Banco de dados <br/>
-  ⚙️ **Em desenvolvimento.
+  ⚙️ Em desenvolvimento.
 
 
 ### 📊 Estatísticas
