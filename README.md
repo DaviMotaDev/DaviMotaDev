@@ -21,6 +21,21 @@
     </a>
 </p>
 
+### 🌐 Sites Administrados
+
+- **Carcará Tour**  
+  🔗 https://carcaratour.com.br  
+  🛠️ Tecnologias: HTML, CSS, JavaScript <br/>
+  📌 **Atuação:** Desenvolvimento e administração do site institucional, incluindo manutenção, ajustes visuais e suporte técnico.
+- **TopFast**  
+  🔗 https:// 
+  🛠️ Tecnologias: Next.js, HTML, CSS <br/>
+  ⚙️ **Em desenvolvimento**.
+- **Dilsin Barber**  
+  🔗 https:// 
+  🛠️ Tecnologias: Next.js, HTML, CSS, JavaScript, Banco de dados <br/>
+  ⚙️ **Em desenvolvimento.
+
 ## 📱Redes Sociais
 
 <a href="https://www.instagram.com/daviziin_mt/">   
@@ -81,6 +96,22 @@
 />
 <br/>
 <br/>
+
+### 🌐 Sites Administrados
+
+- **Carcará Tour**  
+  🔗 https://carcaratour.com.br  
+  🛠️ Tecnologias: HTML, CSS, JavaScript <br/>
+  📌 **Atuação:** Desenvolvimento e administração do site institucional, incluindo manutenção, ajustes visuais e suporte técnico.
+- **TopFast**  
+  🔗 https:// 
+  🛠️ Tecnologias: Next.js, HTML, CSS <br/>
+  ⚙️ **Em desenvolvimento**.
+- **Dilsin Barber**  
+  🔗 https:// 
+  🛠️ Tecnologias: Next.js, HTML, CSS, JavaScript, Banco de dados <br/>
+  ⚙️ **Em desenvolvimento.
+
 
 ### 📊 Estatísticas
 
