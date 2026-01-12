@@ -89,11 +89,11 @@
   🛠️ Tecnologias: HTML, CSS, JavaScript <br/>
   📌 **Atuação:** Desenvolvimento e administração do site institucional, incluindo manutenção, ajustes visuais e suporte técnico.
 - **TopFast**  
-  🔗 https:// 
+  🔗 https:// <br/>
   🛠️ Tecnologias: Next.js, HTML, CSS <br/>
   ⚙️ **Em desenvolvimento**.
 - **Dilsin Barber**  
-  🔗 https:// 
+  🔗 https:// <br/>
   🛠️ Tecnologias: Next.js, HTML, CSS, JavaScript, Banco de dados <br/>
   ⚙️ **Em desenvolvimento.
 
